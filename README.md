@@ -5,7 +5,6 @@ Front-End: HTML,CSS,JavaScript
 
 Back-End: PHP,MySql
 
-Link: rakeshmariyaplar.herokuapp.com/
 
 Software Used:WAMP
 
@@ -15,6 +14,10 @@ ONLINE EXAMINATION SYSTEM is an online test simulator is to take online examinat
 
 Functional Specification:
 
-Registering new Student
-Getting the student and staff info and storing it to databases
-Getting the type and number of question paper 4.Generating result after the exam.
+1.Registering new Student.
+
+2.Getting the student and staff info and storing it to databases.
+
+3.Getting the type and number of question paper .
+
+4.Generating result after the exam.
